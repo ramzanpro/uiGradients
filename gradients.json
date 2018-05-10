@@ -1183,5 +1183,12 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
+    },
+   {
+        …
+    },
+    {
+      "name": "ramzan",
+      "colors": ["#43e962"]
     }
 ]
